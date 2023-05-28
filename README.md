@@ -15,7 +15,7 @@ Data Cleaning: The raw data is cleaned and preprocessed to ensure consistency an
 
 Exploratory Data Analysis: Various statistical techniques and data visualization tools are employed to gain insights into the dataset. This includes analyzing funding patterns, sector-wise distribution, regional concentration, and key performance indicators.
 
-Descriptive Analytics: The project conducts descriptive analysis to summarize and interpret the key characteristics of the Indian startup ecosystem. T
+Descriptive Analytics: The project conducts descriptive analysis to summarize and interpret the key characteristics of the Indian startup ecosystem. 
 
 Inferential Analytics: Inferential analysis techniques are applied to draw conclusions and make predictions based on the available data. This involves hypothesis testing.
 
